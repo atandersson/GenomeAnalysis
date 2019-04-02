@@ -1,6 +1,7 @@
 # Genome Analysis, 10.0 c (1MB462)
 
 *Author: Alfred Andersson*
+
 *Email: alfred.andersson.9942@student.uu.se*
 
 In this project, I try to replicate the results in the article *Transcriptomic and epigenomic characterization of the developing bat wing* by Eckalbar *et al.* PLease note that different software than in the original article might be used in my approach. 
