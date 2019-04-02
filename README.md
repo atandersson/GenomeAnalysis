@@ -4,7 +4,7 @@
 
 *Email: alfred.andersson.9942@student.uu.se*
 
-In this project, I try to replicate the results in the article *Transcriptomic and epigenomic characterization of the developing bat wing* by Eckalbar *et al.* PLease note that different software than in the original article might be used in my approach. 
+In this project, I try to replicate the results in the article *Transcriptomic and epigenomic characterization of the developing bat wing* by Eckalbar *et al.* Please note that different software than in the original article might be used in my approach. 
 
 ## Time Plan
 
@@ -17,11 +17,11 @@ In this project, I try to replicate the results in the article *Transcriptomic a
 - Deadline: April 4
 
 ### 3. DNA Assembly
-- Spades (~1-7 days, 6 cores) OR SOAPdenovo (~1.5 h, 2 cores)
+- SOAPdenovo (~1.5 h, 2 cores)
 - Deadline: April 12
 
 ### 4. DNA Assembly Validation
-- MUMmerplot (<5 min, 1 core) OR BCFtools (~1 h, 2 cores)
+- BCFtools (~1 h, 2 cores)
 - Deadline: April 16
 
 ### 5. RNA Assembly
@@ -29,7 +29,7 @@ In this project, I try to replicate the results in the article *Transcriptomic a
 - Deadline: April 24
 
 ### 6. RNA Assembly Validation
-- MUMmerplot (<5 min, 1 core) OR BCFtools (~1 h, 2 cores)
+- BCFtools (~1 h, 2 cores)
 - Deadline: May 2
 
 ### 7. Annotation
@@ -37,11 +37,11 @@ In this project, I try to replicate the results in the article *Transcriptomic a
 - Deadline: May 2
 
 ### 8. Aligner
-- BWA (WGS: ~1.5 h, 2 cores; ChIP: ~1-2 min/file, 2 cores) OR Tophat (~5-30 min/file, 2 cores)
+- BWA (WGS: ~1.5 h, 2 cores; ChIP: ~1-2 min/file, 2 cores)
 - Deadline: May 6
 
 ### 9. Differential Expression 
-- Htseq (<5 min, 1 core)
+- HTSeq (<5 min, 1 core)
 - Deadline: May 7
 
 ## 10. Additional Analyses
