@@ -13,9 +13,9 @@ module load bioinfo-tools
 module load FastQC
 
 # Your commands
-for i in /home/nordman/genome_analysis/GenomeAnalysis/data/rna_seq_data/trimmed/*.fastq.gz
+for i in /home/nordman/private/genome_analysis/GenomeAnalysis/data/rna_seq_data/trimmed/*.fastq.gz
 	do
     		echo "Running $i ..."
-    		fastqc -t 1 -o /home/nordman/genome_analysis/GenomeAnalysis/results/1_reads_quality_control/rna_seq/trimmed "$i"
+    		fastqc -t 1 -o /home/nordman/private/genome_analysis/GenomeAnalysis/results/1_reads_quality_control/rna_seq/trimmed "$i"
 	done
 
