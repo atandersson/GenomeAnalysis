@@ -13,7 +13,7 @@ module load Trinity
 module load samtools/1.9
 module load jellyfish/2.2.6
 module load Salmon/0.9.1
-module load  bowtie2/2.3.4.3
+module load bowtie2/2.3.4.3
 
 /sw/bioinfo/trinity/2.8.2/rackham/Trinity --seqType fq --max_memory 10G \
 --single \

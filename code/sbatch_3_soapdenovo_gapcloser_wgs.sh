@@ -14,6 +14,6 @@ module load soapdenovo
 
 # Your commands
 /sw/apps/bioinfo/SOAPdenovo/2.04-r240/rackham/bin/GapCloser \
--b /proj/g2019003/nobackup/soap/soapdenovo_wgs.config \
+-b /home/nordman/private/genome_analysis/GenomeAnalysis/code/soapdenovo_config.txt \
 -a /home/nordman/private/genome_analysis/GenomeAnalysis/results/3_dna_assembly/soapdenovo/output.scafSeq \
 -o /home/nordman/private/genome_analysis/GenomeAnalysis/results/3_dna_assembly/soapdenovo/closed_gaps.fasta

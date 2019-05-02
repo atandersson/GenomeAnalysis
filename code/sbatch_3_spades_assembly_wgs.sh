@@ -2,7 +2,7 @@
 
 #SBATCH -A g2019003
 #SBATCH -p core
-#SBATCH -n 8
+#SBATCH -n 12
 #SBATCH -t 200:00:00
 #SBATCH -J spades_dna_assembly_wgs
 #SBATCH --mail-type=ALL

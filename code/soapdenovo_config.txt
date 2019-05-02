@@ -10,10 +10,10 @@ rank=1
 rd_len_cutoff=100
 pair_num_cutoff=3
 map_len=32
-q1=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819794.trim_1P.fastq.gz
-q2=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819794.trim_2P.fastq.gz
-q=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819794.trim_1U.fastq.gz
-q=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819794.trim_2U.fastq.gz
+q1=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819794.trim_1P.fastq.gz
+q2=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819794.trim_2P.fastq.gz
+q=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819794.trim_1U.fastq.gz
+q=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819794.trim_2U.fastq.gz
 
 # Reads	..95
 [LIB]
@@ -24,10 +24,10 @@ rank=1
 rd_len_cutoff=100
 pair_num_cutoff=3
 map_len=32
-q1=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819795.trim_1P.fastq.gz
-q2=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819795.trim_2P.fastq.gz
-q=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819795.trim_1U.fastq.gz
-q=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819795.trim_2U.fastq.gz
+q1=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819795.trim_1P.fastq.gz
+q2=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819795.trim_2P.fastq.gz
+q=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819795.trim_1U.fastq.gz
+q=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819795.trim_2U.fastq.gz
 
 # Reads ..96
 [LIB]
@@ -38,10 +38,10 @@ rank=1
 rd_len_cutoff=100
 pair_num_cutoff=5
 map_len=35
-q1=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819796.trim_1P.fastq.gz
-q2=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819796.trim_2P.fastq.gz
-q=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819796.trim_1U.fastq.gz
-q=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819796.trim_2U.fastq.gz
+q1=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819796.trim_1P.fastq.gz
+q2=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819796.trim_2P.fastq.gz
+q=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819796.trim_1U.fastq.gz
+q=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819796.trim_2U.fastq.gz
 
 # Reads ..97
 [LIB]
@@ -52,10 +52,10 @@ rank=1
 rd_len_cutoff=100
 pair_num_cutoff=3
 map_len=32
-q1=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819797.trim_1P.fastq.gz
-q2=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819797.trim_2P.fastq.gz
-q=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819797.trim_1U.fastq.gz
-q=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819797.trim_2U.fastq.gz
+q1=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819797.trim_1P.fastq.gz
+q2=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819797.trim_2P.fastq.gz
+q=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819797.trim_1U.fastq.gz
+q=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819797.trim_2U.fastq.gz
 
 # Reads ..98
 [LIB]
@@ -66,10 +66,10 @@ rank=1
 rd_len_cutoff=100
 pair_num_cutoff=5
 map_len=35
-q1=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819798.trim_1P.fastq.gz
-q2=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819798.trim_2P.fastq.gz
-q=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819798.trim_1U.fastq.gz
-q=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819798.trim_2U.fastq.gz
+q1=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819798.trim_1P.fastq.gz
+q2=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819798.trim_2P.fastq.gz
+q=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819798.trim_1U.fastq.gz
+q=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819798.trim_2U.fastq.gz
 
 # Reads ..99
 [LIB]
@@ -80,7 +80,7 @@ rank=1
 rd_len_cutoff=100
 pair_num_cutoff=5
 map_len=35
-q1=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819799.trim_1P.fastq.gz
-q2=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819799.trim_2P.fastq.gz
-q=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819799.trim_1U.fastq.gz
-q=/home/nordman/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819799.trim_2U.fastq.gz
+q1=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819799.trim_1P.fastq.gz
+q2=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819799.trim_2P.fastq.gz
+q=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819799.trim_1U.fastq.gz
+q=/home/nordman/private/genome_analysis/GenomeAnalysis/data/wgs_data/sel3_SRR5819799.trim_2U.fastq.gz
