@@ -1,7 +1,7 @@
 # Genome Analysis, 10.0 c (1MB462)
 
-Course: Genome Analysis, 10.0 c (1MB462) 
-Author: Alfred Andersson 
+Course: Genome Analysis, 10.0 c (1MB462) \
+Author: Alfred Andersson \
 Email: alfred.andersson.9942@student.uu.se
 
 ---
